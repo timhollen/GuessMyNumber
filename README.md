@@ -1,6 +1,6 @@
 # GuessMyNumber
 
-This was a simple project i made as a challeng vs a friend. We got 30 min each to build a simple text based game. I made a number guessing game. The code is simple and i expect nothing else in the short time span. Although it does what is suppose to! The idea is to give the first 5 guesses information about the number. Then return to the traditional number guessing style where the awnser telling if the number is higher or lower. I am happy how it turned out.
+This was a simple project i made as a challenge vs a friend. We got 30 min each to build a simple text based game. I made a number guessing game. The code is simple and i expect nothing else in the short time span. Although it does what is suppose to! The idea is to give the first 5 guesses information about the number. Then return to the traditional number guessing style where the awnser telling if the number is higher or lower. I am happy how it turned out.
 
 What i would add if i got more time.
 
